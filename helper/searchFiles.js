@@ -52,7 +52,7 @@ export async function generateButtons(data, query, messageId, chatId) {
   data.forEach((item) => {
     buttons.push([
       {
-        text: `📂 [${item.fileSize}MB] ${item.caption}`,
+        text: `📕 [${item.fileSize} MB] ${item.caption}`,
         url: `${botLink}?start=${item.fromId}-${item.messageId}`,
       },
     ]);
