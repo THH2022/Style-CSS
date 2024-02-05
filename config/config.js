@@ -4,7 +4,7 @@
 
 import "dotenv/config.js";
 
-export const AUTHORIZED_USERS = process.env.AUTHORIZED_USERS.split("");
+export const AUTHORIZED_USERS = process.env.AUTHORIZED_USERS.split("6695109629");
 export const APP_ID = parseInt(process.env.APP_ID);
 export const API_HASH = process.env.API_HASH;
 export const STRING_SESSION = String(process.env.STRING_SESSION);
