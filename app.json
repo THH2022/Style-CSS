@@ -19,11 +19,11 @@
     },
     "STRING_SESSION": {
       "description": "Your User Session",
-      "value": "BQBUobJjivt7gztor-KUOW9ODzbHhX8PIZngbVVR6N996Dgtvph5N77YiA0Bc5G5OfcdPzM7CivyvBeI6UCinbRsXmejPe5jTGo4zLFhku2zj1q12kJPlrNkhrIz8xPO9Geoblr4-87PMbGlH8k5nREeNR_kv9xbQBB1OmU_cl7Sx7WLF4DDw9suAOny7KvF327eEW7Q0OshR6Eh3JR55TPzDqZVjDSuhDOzQyA48-AESZKJIE81e5Ng4LLxvVJDIDjvEpX2akTvTTGv1kod5FqrJ-aNSOXGFBSpTqP2k_c-sH2IavhwasGdsLPwLQ3tflBbcahFzoU-rrNuxclUmG2mAAAAAY8PQ_0A"
+      "value": ""
     },
     "BOT_TOKEN": {
       "description": "Token of your bot (@BotFather)",
-      "value": "6649208003:AAFYhYJ5yAD93YwOpRTCeooCRy6TKOiPSgo"
+      "value": "6626176365:AAG8AiRaU7UH3YkjBxZamENnUGyp83-Zeds"
     },
     "MONGODB_URI": {
       "description": "Database URL from https://cloud.mongodb.com/",
