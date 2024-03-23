@@ -1,4 +1,4 @@
-Client.on_message(filters.command("broadcast") & filters.user(ADMINS) & filters.reply, async function(bot, message) {
+Client.on_message(filters.command("broadcast") & filters.user(AUTHORIZED_USERS) & filters.reply, async function(bot, message) {
     var users = await db.get_all_users();
     var b_msg = message.reply_to_message;
     var sts = await message.reply_text({
